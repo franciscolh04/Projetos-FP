@@ -1,8 +1,8 @@
-Private tests:
+# Private tests:
 16.0/16.0
 
-Manual evaluation:
+# Manual evaluation:
 4.0/4.0
 
-Final Grade:
+## Final Grade:
 20.0
