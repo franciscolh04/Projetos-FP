@@ -4,5 +4,5 @@
 ## Manual evaluation:
 4/4
 
-## Final Grade:
+## Final grade:
 20/20
